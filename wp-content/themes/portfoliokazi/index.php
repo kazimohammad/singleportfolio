@@ -866,7 +866,7 @@ Template Name: Myhome Page
 									<i class="icon-phone"></i>
 								</div>
 								<div class="colorlib-text">
-									<p><a href="#">+88001747594188 <br>+88001840744919</a></p>
+									<p><a href="#">+88001747594188 <br>+855968283659</a></p>
 								</div>
 							</div>
 
